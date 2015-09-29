@@ -9,7 +9,9 @@ nuget/
 TestResults/
 TestResult.xml
 artifacts/
-tools/
+
+tools/*
+!tools/packages.config
 
 # globs
 Makefile.in
