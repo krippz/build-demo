@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "build-demo", "build-demo\build-demo.csproj", "{DB3FFE15-5684-498D-A3AB-4860F84324F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "build-demo.test", "build-demo.test\build-demo.test.csproj", "{6A086017-F2B0-405A-8637-6A3B029F6665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A086017-F2B0-405A-8637-6A3B029F6665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A086017-F2B0-405A-8637-6A3B029F6665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A086017-F2B0-405A-8637-6A3B029F6665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A086017-F2B0-405A-8637-6A3B029F6665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3FFE15-5684-498D-A3AB-4860F84324F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3FFE15-5684-498D-A3AB-4860F84324F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3FFE15-5684-498D-A3AB-4860F84324F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3FFE15-5684-498D-A3AB-4860F84324F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
